@@ -3,7 +3,7 @@
 ## Description
 4,601 Images-22 Kinds of Bills OCR Data. The data background is pure color. The data covers 22 kinds of bills of multiple provinces. In terms of annotation, line-level quadrilateral bounding box annotation, line-level transcription for the texts were annotated in the data. The data can be used for tasks such as OCR for bills.
 
-For more details, please refer to the link: https://www.nexdata.ai/datasets/1028?source=Github
+For more details, please refer to the link: https://www.nexdata.ai/datasets/ocr/1028?source=Github
 
 
 # Specifications
